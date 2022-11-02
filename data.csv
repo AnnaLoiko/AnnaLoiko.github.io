@@ -1,3 +1,3 @@
 name,percent,teamColor
-Approved (not paid),50,blue
-Pending,50,#1e3e6d
+Approved (not paid),30,red
+Pending,70,#1e3e6d
